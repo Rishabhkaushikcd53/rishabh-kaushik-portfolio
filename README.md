@@ -1,43 +1,52 @@
-# Rishabh Kaushik — Portfolio
+# Personal Portfolio
 
-Premium, responsive React + Vite portfolio built from the uploaded resume and cover letter.
+A modern, responsive personal portfolio website showcasing my skills, projects, experience, and technical background.
 
-## Run locally
+## 🚀 About
 
-```bash
-npm install
-npm run dev
-```
+This portfolio is designed to provide an overview of my work as a software developer, including:
 
-Open the localhost URL shown by Vite.
+- Technical skills
+- Featured projects
+- Education
+- Certifications
+- Professional experience
+- Contact information
 
-## Build for deployment
+The goal is to keep my work and technical journey in one place while providing recruiters and developers with an easy way to explore my projects.
 
-```bash
-npm run build
-npm run preview
-```
+## 🛠️ Tech Stack
 
-## Included source documents
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git
+- GitHub
 
-The user's resume and cover letter are included in `public/` and are linked from the website:
-- `/Rishabh-Kaushik-Resume.pdf`
-- `/Rishabh-Kaushik-Cover-Letter.pdf`
+> Update this section according to the technologies actually used in the project.
 
-## Content
+## ✨ Features
 
-The portfolio uses the supplied resume/cover letter for:
-- contact information
-- professional summary
-- Cosmic365 internship
-- NSUT education
-- four projects and GitHub links
-- skills
-- achievements
-- certifications
-- languages
-- online profiles
-- interests
-- career objective and cover-letter framing
+- Responsive design
+- Clean and modern UI
+- About section
+- Skills section
+- Projects showcase
+- Education and experience
+- Contact section
+- Mobile-friendly layout
 
-No work experience or metrics outside the supplied documents were added.
+## 📂 Project Structure
+
+```text
+portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── pages/
+│   └── ...
+├── package.json
+├── README.md
+└── ...
